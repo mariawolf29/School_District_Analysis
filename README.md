@@ -29,15 +29,14 @@ With these data changed, this is how the results changed:
 
 - Changing data put Thomas High Shool on Overall Passing lever for the district, which is 64%
 
-- 
-✓ How does removing the ninth
-grade scores affect the following
-- Math and Reading Scores
-by Grade
 
-- Scores by School Spending
-- Scores by School Size
-- Scores by School Type
+- Math and Reading Scores for ninth grade for Thomas High School are not counted NaN
+
+- Scores by School Spending - Thomas High School is in the third spending range bin, passing percentage for math and reading declined and overal passing went down by 7%
+
+- Scores by School Size - Thomas High School is medium size shool, only medium size school passing percentage for math and reading declined and overal passing went down by 6%.
+
+- Scores by School Type - Thomas High School is charter school, passing math and reading number went down, overal passing down by 3%
 
 
 
