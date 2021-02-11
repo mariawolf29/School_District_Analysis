@@ -1,5 +1,9 @@
 # School_District_Analysis
-In this challenge incorrect math and reading scores for ninth graders from one high school were replaced with NaN. 
+Using the Pandas library and Jupyter Notebook replace incorrect math and reading scores for ninth graders from one high school using logical operations with conditionals. 
+
+## Goals:
+- Filter DataFrames using logical operators
+- Replace the incorrect values with NaN
 
 ## PyCitySchools analysis contains:
  - District Summary
